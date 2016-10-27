@@ -60,7 +60,7 @@ namespace POIApp
             return actuallyConnected;
         }
 
-
+        //change
         
 
         public class POIContractResolver : DefaultContractResolver
